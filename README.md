@@ -1,7 +1,7 @@
 
 
 
-UFO Sighting Prediction Project
+
 Welcome to the UFO Sighting Prediction project! This project is a fascinating exploration into UFO sighting data, encompassing various stages from data cleaning to predictive modeling. Below is an overview of the project:
 
 Project Overview:
